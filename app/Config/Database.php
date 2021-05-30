@@ -34,7 +34,7 @@ class Database extends Config
 		'DSN'      => '',
 		'hostname' => 'localhost',
 		'username' => 'goldem64',
-		'password' => '1Internet1q2w3w@',
+		'password' => '1Internet1q2w3e@',
 		'database' => 'proyecto5',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
